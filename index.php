@@ -13,9 +13,8 @@
 </head>
 <body>
     <div class="container">
-        <i class="fab fa-accessible-icon"></i>
-        <button class="btn btn-primary">xxx</button>
-        <button class="btn btn-primary">xxx</button>
+        <button class="btn btn-primary"> <i class="fab fa-accessible-icon"> </i> </button>
+        <button class="btn btn-primary"> <i class="fas fa-air-freshener"></i> xxx </button>
         <img src="img/1200px-Tree_Sparrow_Japan_Flip.jpg" alt="">
     </div>
     <script>
