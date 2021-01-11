@@ -14,11 +14,12 @@
     <div class="container">
         Hello World 
         <button class="btn btn-primary">xxx</button>
+        <button class="btn btn-primary">xxx</button>
         <img src="img/1200px-Tree_Sparrow_Japan_Flip.jpg" alt="">
     </div>
     <script>
         $(()=>{
-            <button class="btn btn-primary">xxx</button>
+           
         })
     </script>
    
