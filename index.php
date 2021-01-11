@@ -18,7 +18,7 @@
     </div>
     <script>
         $(()=>{
-            alert("Hello");
+            <button class="btn btn-primary">xxx</button>
         })
     </script>
    
